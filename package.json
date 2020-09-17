@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@mysql/xdevapi": "^8.0.21"
+  },
+  "engines": {
+    "node": "v12.13.0"
   }
 }
